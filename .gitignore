@@ -1,0 +1,11 @@
+# Ignore compiled C binaries/executables
+hello
+*.out
+*.o
+
+# Ignore temporary build and debug folders
+.vscode/
+my_cpp_programms
+# Ignore Python cache folders
+__pycache__/
+*.pyc
