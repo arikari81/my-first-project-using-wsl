@@ -37,7 +37,7 @@ int main(){
     /*grand total calculation*/
     float grandtotal = subtotal + tax_amt + tip;
     
-    /*charg and closing statments displayed*/
+    /*charge and closing statments displayed*/
     printf("\tGRAND TOTAL: Rs. %.2f/-\n", grandtotal);
     printf("\t------THANK YOU, ENJOY YOUR MEAL------\n");
 
