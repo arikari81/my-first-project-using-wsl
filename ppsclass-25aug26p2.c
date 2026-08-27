@@ -16,8 +16,8 @@ int main(){
     float area = length*breadth;
     
     /*giving the output to the user*/
-    printf("THE AREA OF YOUR RECTANGLE IS %f sq cm\n", area);
-    printf("THE PERIMETER OF YOUR RECTANGLE IS %f sq cm\n", perimeter);
+    printf("THE AREA OF YOUR RECTANGLE IS %.2f sq cm\n", area);
+    printf("THE PERIMETER OF YOUR RECTANGLE IS %.2f sq cm\n", perimeter);
 
     return 0;
 }
